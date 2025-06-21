@@ -23,12 +23,6 @@ npm run dev
 - Create an account or log in.
 - Start writing and managing your diary entries.
 
-## Technologies Used
-
-- React
-- Vite
-- JavaScript
-- Local Storage
 
 ## License
 
